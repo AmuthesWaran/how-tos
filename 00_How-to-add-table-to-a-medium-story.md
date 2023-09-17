@@ -14,6 +14,6 @@ You can simply create an md file like <a href='https://gist.github.com/AmuthesWa
 
 If you are not comfortable with md you can make you use of tools like <a href='https://www.tablesgenerator.com/markdown_tables'>Tables Generator</a> to get you table outline snippets to add you content
 
-once you have created a simple md file on gist you can simply embed you gist public link as below 
+once you have created a simple md file on gist you can simply embed you gist public link and press enter as below 
 
-![Imgur](https://i.imgur.com/RFSm0wI.gifv)
+![steps-on-how-to-embed-gist-link-to-medium](https://github.com/AmuthesWaran/how-tos/assets/79437368/34683088-006d-4e76-8b75-dff703283eab)
