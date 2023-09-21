@@ -1,2 +1,2 @@
 # how-tos
-Simple How tos on day-to-day problems
+This repo consists to simple how to on day to day tech related issues.
