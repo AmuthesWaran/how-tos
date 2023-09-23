@@ -8,7 +8,7 @@ In your blog right on the section where you want scroll and select inspect to fi
 
 In the above, image for the section Step 1: .. the id for the p tag is 0317
 
-Now this id along with # in the front (like #0317) is suppose to be added in the hyperlink option
+Now this id along with # in the front (like #0317) is suppose to be added as hyperlink as below
 
 
 ![adding-id-to-hyperlink-to-smooth-scroll](https://github.com/AmuthesWaran/how-tos/assets/79437368/1adb1b54-4f56-40c1-b1b4-2e95286dcfa1)
@@ -17,3 +17,13 @@ Now this id along with # in the front (like #0317) is suppose to be added in the
 Result:
 
 ![smooth-scroll-in-a-medium-blog-using-hyperlink-with-section-id](https://github.com/AmuthesWaran/how-tos/assets/79437368/a3aff945-e3a0-4a31-bdf7-7f709e2dc777)
+
+
+Note: To find the id of the section tag (in my case it is a p tag) you have to
+* First post your story publically
+* Find id you the section in your posted story
+* And now edit your posted story and add the hyperlink of the id to the text
+
+Medium story link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : [Java Setup on VS Code (Windows)](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7) <br>
+Link to a paticular section &nbsp; : [Step 1: VS code Extension Pack for Java](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7#0317)
+
