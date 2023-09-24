@@ -1,6 +1,6 @@
 # How to add smooth scroll to a medium story?
 
-To add a smooth scroll to a medium i.e to use hyperlink to scroll to a particular section of a blog, find the id of the section you like to scroll.
+To add a smooth scroll to a medium story i.e to use hyperlink to scroll to a particular section of a blog, find the id of the section you like to scroll.
 
 In your blog right on the section where you want scroll and select inspect to find the id of the html tag
 
@@ -24,6 +24,7 @@ Note: To find the id of the section tag (in my case it is a p tag) you have to
 * Find id you the section in your posted story
 * And now edit your posted story and add the hyperlink of the id to the text
 
-Medium story link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : [Java Setup on VS Code (Windows)](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7) <br>
-Link to a paticular section &nbsp; : [Step 1: VS code Extension Pack for Java](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7#0317)
-
+| Description  | Hyperlink |
+|:---|:---|
+| Link to a paticular section | [Step 1: VS code Extension Pack for Java](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7#0317) |
+| Medium story link  |[Java Setup on VS Code (Windows)](https://medium.com/@amutheswaran/java-setup-on-vs-code-windows-4747964402b7) |
