@@ -4,7 +4,7 @@ To add a smooth scroll to a medium story i.e to use hyperlink to scroll to a par
 
 In your blog right on the section where you want scroll and select inspect to find the id of the html tag
 
-![finding-id-of-a-section-using-devtools](https://github.com/AmuthesWaran/how-tos/assets/79437368/39050d0e-5599-4c72-b5fa-79c12cd1633e)
+![finding-id-of-a-section-using-devtools-medium](https://github.com/AmuthesWaran/how-tos/assets/79437368/c620e7d4-b4b6-45be-8edd-b8f5b29e975d)
 
 In the above, image for the section Step 1: .. the id for the p tag is 0317
 
