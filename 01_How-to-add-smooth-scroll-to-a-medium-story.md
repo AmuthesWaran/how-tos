@@ -1,7 +1,7 @@
 # How to add smooth scroll to a medium story?
 
 To add a smooth scroll to a medium story i.e to use hyperlink to scroll to a particular section of a blog, find the id of the section you like to scroll.
-
+### Find ID of your section
 In your blog right on the section where you want scroll and select inspect to find the id of the html tag
 
 ![finding-id-of-a-section-using-devtools-medium](https://github.com/AmuthesWaran/how-tos/assets/79437368/c620e7d4-b4b6-45be-8edd-b8f5b29e975d)
