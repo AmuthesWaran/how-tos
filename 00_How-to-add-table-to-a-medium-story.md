@@ -4,7 +4,7 @@ To embed a table to your medium story, you can use <a href='https://gist.github.
 
 Github gist is simple repository to share your code snippets.
 
-You can simply create an markdown file (.md) like <a href='https://gist.github.com/AmuthesWaran/d7c49152054c337e6bbfa48dec772358'>here</a> also shown below amd post the gist publically. 
+You can simply create an markdown file (.md) like <a href='https://gist.github.com/AmuthesWaran/d7c49152054c337e6bbfa48dec772358'>here</a> also shown below ad post the gist publically. 
 
 | Variable  | Value  |
 |---|---|
